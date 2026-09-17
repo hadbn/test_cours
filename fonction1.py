@@ -12,3 +12,9 @@ def f4(x):
 
 def f5(x):
     return x+5
+
+def square(x):
+    S=0
+    for i in range(x):
+        S+=x
+    return S
