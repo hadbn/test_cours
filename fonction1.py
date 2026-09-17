@@ -1,0 +1,5 @@
+def f(x):
+    return x+1
+
+def f2(x):
+    return x+2
