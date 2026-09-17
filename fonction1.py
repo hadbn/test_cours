@@ -1,3 +1,5 @@
+import math
+
 def f(x):
     return x+1
 
@@ -12,6 +14,9 @@ def f4(x):
 
 def f5(x):
     return x+5
+
+def root(x):
+    return math.sqrt(x)
 
 def square(x):
     return x*x
