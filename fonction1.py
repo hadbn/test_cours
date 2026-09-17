@@ -6,3 +6,6 @@ def f2(x):
 
 def f3(x) :
     return x+3
+
+def f4(x):
+    return x+4
